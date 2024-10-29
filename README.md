@@ -4,13 +4,10 @@ Colors Palate by Koderator.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project with Flutter FrameWork + DArt Language.
 
-A few resources to get you started if this is your first Flutter project:
+- [Koderator : YouTube Channel](https://www.youtube.com/@Koderators)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+My WhatsApp : +91 7037068234
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
